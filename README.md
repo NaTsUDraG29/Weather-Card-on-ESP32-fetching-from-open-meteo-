@@ -139,9 +139,8 @@ idf.py -p COMx flash monitor
 ## 🗺️ Roadmap
 - [x] **Task 1**: Standalone Hardware Bringup (ST7796S SPI, GT911 I2C, TCA9534, LVGL).
 - [x] **Task 2**: Wi-Fi Station Manager, NVS Persistence, SNTP Sync, Display Sleep.
-- [x] **Task 3A**: Live Cloud Weather REST API Client (HTTPS + cJSON).
-- [ ] **Task 3B**: MQTT 3.1.1/5.0 Cloud Telemetry (`esp-mqtt`).
-- [ ] **Task 4**: Dual-Partition OTA (Over-The-Air) Firmware Updates.
+- [x] **Task 3**: Live Cloud Weather REST API Client (HTTPS + cJSON).
+
 
 ---
 
